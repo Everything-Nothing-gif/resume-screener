@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react'
 import { Upload, FileText, Loader, X, CheckCircle, AlertCircle } from 'lucide-react'
 
-const API_URL = 'http://localhost:8000'
+const API_URL = 'https://resume-screener-api-jrqd.onrender.com'
 
 const SAMPLE_JD = `We are looking for a Python Backend Developer with strong experience in:
 
